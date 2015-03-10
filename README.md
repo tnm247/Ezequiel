@@ -1,3 +1,3 @@
 # Ezequiel
 My First Repository on Github
-I love :coffee:, :tea:, and :dancer:.
+I am a student in Drawing on the Web. I really need some :coffee: right now. 
